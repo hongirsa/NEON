@@ -12,3 +12,4 @@
 10. SimHSI_ver2_single_updated.ipynb: a single process to simulate NEON hyperspectral as S2 based on S2 SRF, the geometric angles are included. Two outputs: one: 1m simulated result, the other: 10m simulated result. The angle inputs are updated, the parameter for Cos is radian instead of degree in python.
 11. SimHSI_ver2_batch_updated.ipynb: a batch processing of simulating NEON hyperspectral as S2 based on S2 SRF, the geometric angles are included. Two outputs: one: 1m simulated result, the other: 10m simulated result. The angle inputs are updated, the parameter for Cos is radian instead of degree in python.
 12. NEON_SL2P.ipynb: SL2P for processing NEON simulated data.
+13. ALR_function_module.ipynb for processing ALR based parameter esimation 
